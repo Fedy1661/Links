@@ -1,0 +1,17 @@
+Навыки: 
+1. JavaScript, jQuery, JSX, React & Redux
+2. NPM, Webpack, Gulp
+3. PHP, MySQL, MongoDB
+4. Базовые знания Git
+5. Адаптивная, резиновая, кроссбраузерная вёрстка
+6. Методология БЭМ
+7. HTML, CSS, SASS
+
+- Предпочитаю работать с React.
+- Использую Windows 10, VS Code
+- Каждый день использую, как возможность стать лучше.
+- Легко обучаюсь.
+
+САЙТ-ПОРТФОЛИО >>> https://fedy.xyz/
+
+https://github.com/fedy1661/
